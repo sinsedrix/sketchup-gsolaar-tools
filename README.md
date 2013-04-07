@@ -1,15 +1,13 @@
-# Welcome to GSolaar Importer
+# Welcome to SketchUp GSolaar Tools
 
 A SketchUp Ruby Extension that provides an importer for GSolaar polyhedra and other solids.
-
-More tools to come. Want to contribute? Please do!
 
 ## Installing
 
 The latest and greatest (definitely still in beta) is available as an RBZ.
 Download the file from this url:
 
-https://github.com/sinsedrix/sketchup-gsolaar-tools/raw/master/sketchup-gsolaar-tools-0.1.rbz
+https://github.com/sinsedrix/sketchup-gsolaar-tools/raw/master/sketchup-gsolaar-tools_0.1.rbz
 
 Then inside SketchUp, select Preferences > Extensions > Install Extension and select the RBZ file you just downloaded. Voila! SketchUp installs the extension.
 You'll find a new entry under File > Import... file format selector.
@@ -18,7 +16,7 @@ You'll find a new entry under File > Import... file format selector.
 
 See the LICENSE and NOTICE files for more information.
 
-Copyright: Copyright (c) 2013 Cédric COULIOU
+Copyright: Copyright (c) 2013 CÃ©dric COULIOU
 
 License: CeCILL
 
