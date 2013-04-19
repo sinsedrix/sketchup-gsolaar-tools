@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Created with GSolaar (http://source-forge.net/projects/gsolaar/) -->
+<saa version="1.0" author="sinsedrix@source-forge.net">
+	<solid id="sol37" name="SmallHexagonalHexecontahedron">
+		<vertices>
+		</vertices>
+		<edges>
+		</edges>
+		<wings>
+		</wings>
+	</solid>
+</saa>

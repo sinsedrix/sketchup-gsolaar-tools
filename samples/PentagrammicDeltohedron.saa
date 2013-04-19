@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Created with GSolaar (http://source-forge.net/projects/gsolaar/) -->
+<saa version="1.0" author="sinsedrix@source-forge.net">
+	<solid id="sol4" name="PentagrammicDeltohedron">
+		<vertices>
+			<vertex id="s1" x="0.559389221065187403" y="0.678715947273502818" z="0.475844893082519815" />
+			<vertex id="s2" x="-0.773056890571760302" y="0.419469524121606319" z="0.475844893082519815" />
+			<vertex id="s3" x="-0.264107764104083154" y="-0.838939048243212637" z="0.475844893082519815" />
+			<vertex id="s4" x="0.559389221065187403" y="-0.303530999103343135" z="0.475844893082519815" />
+			<vertex id="s5" x="0.427335339013146243" y="-0.838939048243212526" z="-0.336995224540781846" />
+			<vertex id="s6" x="0.345721551558614948" y="0.419469524121606818" z="-0.839358044651445256" />
+			<vertex id="s7" x="-0.559389221065187847" y="0.303530999103343302" z="-0.475844893082520093" />
+			<vertex id="s8" x="-0.163227574909062978" y="-0.518492846303793775" z="-0.839358044651446034" />
+			<vertex id="s9" x="0.936284465480824224" y="0.099023322182187234" z="-0.336995224540782456" />
+			<vertex id="s10" x="-0.182493976649552553" y="0.099023322182187123" z="0.978207713193183004" />
+			<vertex id="s11" x="-0.854670678026292041" y="-0.518492846303793886" z="-0.026517927028143751" />
+			<vertex id="s12" x="-0.031173692857021915" y="0.999162149212921791" z="-0.026517927028143453" />
+			<vertex id="s13" x="0.452555386311901064" y="0.549092735697554679" z="-0.181756575784463470" />
+			<vertex id="s14" x="-0.106833834753287227" y="0.549092735697554457" z="0.475844893082519815" />
+			<vertex id="s15" x="-0.518582327337921756" y="-0.209734762060802882" z="0.475844893082519815" />
+			<vertex id="s16" x="-0.213667669506573066" y="-0.678715947273503151" z="-0.181756575784463248" />
+			<vertex id="s17" x="0.386528445285880595" y="-0.209734762060803270" z="-0.588176634596113468" />
+		</vertices>
+		<edges>
+			<edge id="ar1" v1="s4" v2="s1" />
+			<edge id="ar2" v1="s6" v2="s13" />
+			<edge id="ar3" v1="s2" v2="s14" />
+			<edge id="ar4" v1="s7" v2="s2" />
+			<edge id="ar5" v1="s3" v2="s15" />
+			<edge id="ar6" v1="s8" v2="s16" />
+			<edge id="ar7" v1="s4" v2="s3" />
+			<edge id="ar8" v1="s9" v2="s4" />
+			<edge id="ar9" v1="s5" v2="s4" />
+			<edge id="ar10" v1="s10" v2="s4" />
+			<edge id="ar11" v1="s11" v2="s16" />
+			<edge id="ar12" v1="s6" v2="s17" />
+			<edge id="ar13" v1="s7" v2="s6" />
+			<edge id="ar14" v1="s11" v2="s7" />
+			<edge id="ar15" v1="s8" v2="s7" />
+			<edge id="ar16" v1="s12" v2="s7" />
+			<edge id="ar17" v1="s9" v2="s17" />
+			<edge id="ar18" v1="s12" v2="s13" />
+			<edge id="ar19" v1="s12" v2="s14" />
+			<edge id="ar20" v1="s11" v2="s15" />
+			<edge id="ar21" v1="s13" v2="s1" />
+			<edge id="ar22" v1="s14" v2="s1" />
+			<edge id="ar23" v1="s15" v2="s2" />
+			<edge id="ar24" v1="s16" v2="s3" />
+			<edge id="ar25" v1="s16" v2="s5" />
+			<edge id="ar26" v1="s17" v2="s5" />
+			<edge id="ar27" v1="s17" v2="s8" />
+			<edge id="ar28" v1="s13" v2="s9" />
+			<edge id="ar29" v1="s14" v2="s10" />
+			<edge id="ar30" v1="s15" v2="s10" />
+			<edge id="ar31" v1="s15" v2="s4" />
+			<edge id="ar32" v1="s14" v2="s4" />
+			<edge id="ar33" v1="s14" v2="s15" />
+			<edge id="ar34" v1="s4" v2="s17" />
+			<edge id="ar35" v1="s13" v2="s17" />
+			<edge id="ar36" v1="s13" v2="s4" />
+			<edge id="ar37" v1="s13" v2="s7" />
+			<edge id="ar38" v1="s14" v2="s13" />
+			<edge id="ar39" v1="s14" v2="s7" />
+			<edge id="ar40" v1="s16" v2="s15" />
+			<edge id="ar41" v1="s16" v2="s7" />
+			<edge id="ar42" v1="s15" v2="s7" />
+			<edge id="ar43" v1="s7" v2="s17" />
+			<edge id="ar44" v1="s4" v2="s16" />
+			<edge id="ar45" v1="s16" v2="s17" />
+		</edges>
+		<wings>
+			<wing id="ai1" edge-list="ar1 ar22 ar32 " />
+			<wing id="ai2" edge-list="ar2 ar35 ar12 " />
+			<wing id="ai3" edge-list="ar4 ar3 ar39 " />
+			<wing id="ai4" edge-list="ar6 ar41 ar15 " />
+			<wing id="ai5" edge-list="ar8 ar34 ar17 " />
+			<wing id="ai6" edge-list="ar11 ar40 ar20 " />
+			<wing id="ai7" edge-list="ar14 ar41 ar11 " />
+			<wing id="ai8" edge-list="ar18 ar37 ar16 " />
+			<wing id="ai9" edge-list="ar19 ar38 ar18 " />
+			<wing id="ai10" edge-list="ar20 ar42 ar14 " />
+			<wing id="ai11" edge-list="ar31 ar5 ar7 " />
+			<wing id="ai12" edge-list="ar43 ar13 ar12 " />
+			<wing id="ai13" edge-list="ar33 ar3 ar23 " />
+			<wing id="ai14" edge-list="ar34 ar9 ar26 " />
+			<wing id="ai15" edge-list="ar39 ar19 ar16 " />
+			<wing id="ai16" edge-list="ar36 ar21 ar1 " />
+			<wing id="ai17" edge-list="ar37 ar2 ar13 " />
+			<wing id="ai18" edge-list="ar38 ar22 ar21 " />
+			<wing id="ai19" edge-list="ar33 ar30 ar29 " />
+			<wing id="ai20" edge-list="ar40 ar24 ar5 " />
+			<wing id="ai21" edge-list="ar35 ar28 ar17 " />
+			<wing id="ai22" edge-list="ar42 ar23 ar4 " />
+			<wing id="ai23" edge-list="ar36 ar8 ar28 " />
+			<wing id="ai24" edge-list="ar44 ar7 ar24 " />
+			<wing id="ai25" edge-list="ar45 ar6 ar27 " />
+			<wing id="ai26" edge-list="ar31 ar10 ar30 " />
+			<wing id="ai27" edge-list="ar32 ar29 ar10 " />
+			<wing id="ai28" edge-list="ar44 ar25 ar9 " />
+			<wing id="ai29" edge-list="ar43 ar27 ar15 " />
+			<wing id="ai30" edge-list="ar45 ar26 ar25 " />
+		</wings>
+	</solid>
+</saa>

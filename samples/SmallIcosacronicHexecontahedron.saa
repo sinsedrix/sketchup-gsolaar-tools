@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Created with GSolaar (http://source-forge.net/projects/gsolaar/) -->
+<saa version="1.0" author="sinsedrix@source-forge.net">
+	<solid id="sol36" name="SmallIcosacronicHexecontahedron">
+		<vertices>
+			<vertex id="s1" x="0.247068278800301661" y="0.525731112119131927" z="0.813980382663265223" />
+			<vertex id="s2" x="-0.222582241381937607" y="0.136408200074349922" z="0.813980382663265223" />
+			<vertex id="s3" x="-0.356292052294550521" y="-0.458793973490389528" z="0.813980382663265223" />
+			<vertex id="s4" x="-0.479555330380426303" y="0.293892626146242231" z="-0.658523962662394657" />
+			<vertex id="s5" x="0.748630880668140097" y="-0.458793973490391027" z="0.478602020888904411" />
+			<vertex id="s6" x="0.637480317397111862" y="0.136408200074349922" z="0.552924734905683279" />
+			<vertex id="s7" x="0.479555330380419087" y="-0.293892626146236791" z="0.658523962662404649" />
+			<vertex id="s8" x="-0.792103701014412298" y="0.066937138628742732" z="0.606705155995452050" />
+			<vertex id="s9" x="-0.419206508934403976" y="0.675407104312327200" z="0.606705155995451828" />
+			<vertex id="s10" x="-0.247068278800309016" y="-0.162459848116411398" z="-0.813980382663279323" />
+			<vertex id="s11" x="0.167829797214872206" y="-0.629937704287544586" z="0.552924734905683168" />
+			<vertex id="s12" x="0.995699159468442119" y="0.066937138628742940" z="0.064051567553278413" />
+			<vertex id="s13" x="0.032604615259710479" y="0.293892626146240232" z="-0.813980382663256896" />
+			<vertex id="s14" x="0.079790457739595949" y="-0.556758182205804641" z="-0.658523962662404316" />
+			<vertex id="s15" x="0.685716424028287475" y="0.675407104312324980" z="0.271326794221090517" />
+			<vertex id="s16" x="-0.432369487900529093" y="-0.556758182205803198" z="-0.503067542661546963" />
+			<vertex id="s17" x="0.285951551387463698" y="-0.175243704039711207" z="0.942083517769812917" />
+			<vertex id="s18" x="-0.392338828373590576" y="0.917587946980781832" z="-0.064051567553269448" />
+			<vertex id="s19" x="-0.720291263696218098" y="0.441426208128989694" z="0.130527823878794996" />
+			<vertex id="s20" x="0.088591315629442863" y="0.798547512267833492" z="0.291869087148100781" />
+			<vertex id="s21" x="-0.995699159468443562" y="-0.066937138628741663" z="-0.064051567553269920" />
+			<vertex id="s22" x="-0.671319188859490712" y="-0.441426208128988251" z="0.291869087148100614" />
+			<vertex id="s23" x="0.532310706060733829" y="0.181635632001348940" z="-0.658523962662397211" />
+			<vertex id="s24" x="-0.290541099146575832" y="-0.917587946980782276" z="0.271326794221090073" />
+			<vertex id="s25" x="0.561473160501109514" y="-0.344095480117791341" z="-0.562446611332490187" />
+			<vertex id="s26" x="0.299823654480626089" y="0.637988106264015142" z="-0.503067542661547185" />
+			<vertex id="s27" x="0.392338828373589521" y="-0.917587946980783387" z="0.064051567553274402" />
+			<vertex id="s28" x="0.376171951400879445" y="-0.738393814207145227" z="-0.251533771330765987" />
+			<vertex id="s29" x="0.671319188859491711" y="0.441426208128990472" z="-0.291869087148092010" />
+			<vertex id="s30" x="0.290541099146579718" y="0.917587946980780056" z="-0.271326794221082190" />
+			<vertex id="s31" x="0.720291263696219874" y="-0.441426208128990083" z="-0.130527823878783339" />
+			<vertex id="s32" x="0.792103701014417516" y="-0.066937138628741552" z="-0.606705155995443057" />
+			<vertex id="s33" x="0.047185842479889162" y="-0.850650808352040100" z="0.155456420000863071" />
+			<vertex id="s34" x="-0.748630880668142540" y="0.458793973490392804" z="-0.478602020888900526" />
+			<vertex id="s35" x="-0.452520248321141683" y="-0.738393814207143229" z="0.000000000000002137" />
+			<vertex id="s36" x="-0.779378984861039070" y="-0.344095480117792396" z="-0.155456420000857465" />
+			<vertex id="s37" x="-0.808541439301409093" y="0.181635632001341751" z="-0.251533771330767597" />
+			<vertex id="s38" x="-0.685716424028290139" y="-0.675407104312328199" z="-0.271326794221086798" />
+			<vertex id="s39" x="-0.528868545241402366" y="0.637988106264030685" z="-0.251533771330767542" />
+			<vertex id="s40" x="-0.088591315629445166" y="-0.798547512267835824" z="-0.291869087148095618" />
+			<vertex id="s41" x="0.419206508934406141" y="-0.675407104312330642" z="-0.606705155995448719" />
+			<vertex id="s42" x="-0.047185842479886719" y="0.850650808352039323" z="-0.155456420000858131" />
+			<vertex id="s43" x="0.452520248321142238" y="0.738393814207141563" z="0.000000000000004607" />
+			<vertex id="s44" x="0.356292052294555572" y="0.458793973490392804" z="-0.813980382663259228" />
+			<vertex id="s45" x="0.828692199722020462" y="0.000000000000000194" z="-0.251533771330766764" />
+			<vertex id="s46" x="-0.285951551387468639" y="0.175243704039715981" z="-0.942083517769808809" />
+			<vertex id="s47" x="-0.637480317397119634" y="-0.136408200074349201" z="-0.552924734905674953" />
+			<vertex id="s48" x="-0.167829797214877563" y="0.629937704287550582" z="-0.552924734905673398" />
+			<vertex id="s49" x="-0.247068278800306462" y="-0.525731112119135036" z="-0.813980382663263891" />
+			<vertex id="s50" x="0.779378984861036850" y="0.344095480117792951" z="0.155456420000864570" />
+			<vertex id="s51" x="0.222582241381937884" y="-0.136408200074349728" z="-0.813980382663263446" />
+			<vertex id="s52" x="-0.828692199722018796" y="0.000000000000000430" z="0.251533771330773259" />
+			<vertex id="s53" x="0.247068278800301661" y="0.162459848116453531" z="0.813980382663265223" />
+			<vertex id="s54" x="0.432369487900530758" y="0.556758182205802088" z="0.503067542661541967" />
+			<vertex id="s55" x="-0.079790457739595977" y="0.556758182205802199" z="0.658523962662404649" />
+			<vertex id="s56" x="-0.532310706060733718" y="-0.181635632001339864" z="0.658523962662405538" />
+			<vertex id="s57" x="-0.032604615259708675" y="-0.293892626146237623" z="0.813980382663265223" />
+			<vertex id="s58" x="-0.299823654480618207" y="-0.637988106264030019" z="0.503067542661542633" />
+			<vertex id="s59" x="0.528868545241400367" y="-0.637988106264030130" z="0.251533771330773481" />
+			<vertex id="s60" x="0.808541439301407761" y="-0.181635632001338643" z="0.251533771330773426" />
+			<vertex id="s61" x="-0.561473160501104962" y="0.344095480117792674" z="0.562446611332494850" />
+			<vertex id="s62" x="-0.376171951400879057" y="0.738393814207143340" z="0.251533771330773759" />
+		</vertices>
+		<edges>
+			<edge id="ar1" v1="s10" v2="s51" />
+			<edge id="ar2" v1="s6" v2="s1" />
+			<edge id="ar3" v1="s2" v2="s1" />
+			<edge id="ar4" v1="s13" v2="s51" />
+			<edge id="ar5" v1="s2" v2="s55" />
+			<edge id="ar6" v1="s20" v2="s1" />
+			<edge id="ar7" v1="s8" v2="s2" />
+			<edge id="ar8" v1="s3" v2="s2" />
+			<edge id="ar9" v1="s17" v2="s2" />
+			<edge id="ar10" v1="s9" v2="s2" />
+			<edge id="ar11" v1="s51" v2="s14" />
+			<edge id="ar12" v1="s13" v2="s48" />
+			<edge id="ar13" v1="s22" v2="s3" />
+			<edge id="ar14" v1="s11" v2="s3" />
+			<edge id="ar15" v1="s4" v2="s48" />
+			<edge id="ar16" v1="s5" v2="s7" />
+			<edge id="ar17" v1="s11" v2="s5" />
+			<edge id="ar18" v1="s6" v2="s5" />
+			<edge id="ar19" v1="s10" v2="s47" />
+			<edge id="ar20" v1="s47" v2="s4" />
+			<edge id="ar21" v1="s31" v2="s5" />
+			<edge id="ar22" v1="s15" v2="s6" />
+			<edge id="ar23" v1="s12" v2="s6" />
+			<edge id="ar24" v1="s17" v2="s6" />
+			<edge id="ar25" v1="s8" v2="s61" />
+			<edge id="ar26" v1="s18" v2="s62" />
+			<edge id="ar27" v1="s19" v2="s8" />
+			<edge id="ar28" v1="s4" v2="s34" />
+			<edge id="ar29" v1="s11" v2="s58" />
+			<edge id="ar30" v1="s22" v2="s8" />
+			<edge id="ar31" v1="s16" v2="s47" />
+			<edge id="ar32" v1="s56" v2="s2" />
+			<edge id="ar33" v1="s19" v2="s9" />
+			<edge id="ar34" v1="s20" v2="s9" />
+			<edge id="ar35" v1="s25" v2="s51" />
+			<edge id="ar36" v1="s21" v2="s52" />
+			<edge id="ar37" v1="s27" v2="s11" />
+			<edge id="ar38" v1="s24" v2="s11" />
+			<edge id="ar39" v1="s17" v2="s11" />
+			<edge id="ar40" v1="s62" v2="s19" />
+			<edge id="ar41" v1="s23" v2="s51" />
+			<edge id="ar42" v1="s31" v2="s12" />
+			<edge id="ar43" v1="s29" v2="s12" />
+			<edge id="ar44" v1="s7" v2="s17" />
+			<edge id="ar45" v1="s30" v2="s43" />
+			<edge id="ar46" v1="s32" v2="s45" />
+			<edge id="ar47" v1="s15" v2="s50" />
+			<edge id="ar48" v1="s29" v2="s15" />
+			<edge id="ar49" v1="s20" v2="s15" />
+			<edge id="ar50" v1="s26" v2="s48" />
+			<edge id="ar51" v1="s54" v2="s6" />
+			<edge id="ar52" v1="s24" v2="s58" />
+			<edge id="ar53" v1="s17" v2="s57" />
+			<edge id="ar54" v1="s35" v2="s22" />
+			<edge id="ar55" v1="s14" v2="s40" />
+			<edge id="ar56" v1="s20" v2="s18" />
+			<edge id="ar57" v1="s19" v2="s18" />
+			<edge id="ar58" v1="s28" v2="s40" />
+			<edge id="ar59" v1="s31" v2="s25" />
+			<edge id="ar60" v1="s48" v2="s18" />
+			<edge id="ar61" v1="s21" v2="s19" />
+			<edge id="ar62" v1="s34" v2="s19" />
+			<edge id="ar63" v1="s30" v2="s20" />
+			<edge id="ar64" v1="s45" v2="s31" />
+			<edge id="ar65" v1="s22" v2="s21" />
+			<edge id="ar66" v1="s47" v2="s21" />
+			<edge id="ar67" v1="s57" v2="s11" />
+			<edge id="ar68" v1="s24" v2="s22" />
+			<edge id="ar69" v1="s38" v2="s22" />
+			<edge id="ar70" v1="s40" v2="s16" />
+			<edge id="ar71" v1="s42" v2="s48" />
+			<edge id="ar72" v1="s40" v2="s24" />
+			<edge id="ar73" v1="s41" v2="s28" />
+			<edge id="ar74" v1="s38" v2="s35" />
+			<edge id="ar75" v1="s27" v2="s33" />
+			<edge id="ar76" v1="s40" v2="s27" />
+			<edge id="ar77" v1="s39" v2="s48" />
+			<edge id="ar78" v1="s31" v2="s27" />
+			<edge id="ar79" v1="s52" v2="s19" />
+			<edge id="ar80" v1="s32" v2="s29" />
+			<edge id="ar81" v1="s30" v2="s29" />
+			<edge id="ar82" v1="s44" v2="s29" />
+			<edge id="ar83" v1="s36" v2="s47" />
+			<edge id="ar84" v1="s37" v2="s19" />
+			<edge id="ar85" v1="s48" v2="s30" />
+			<edge id="ar86" v1="s41" v2="s31" />
+			<edge id="ar87" v1="s32" v2="s31" />
+			<edge id="ar88" v1="s40" v2="s35" />
+			<edge id="ar89" v1="s20" v2="s43" />
+			<edge id="ar90" v1="s51" v2="s32" />
+			<edge id="ar91" v1="s46" v2="s4" />
+			<edge id="ar92" v1="s6" v2="s50" />
+			<edge id="ar93" v1="s58" v2="s22" />
+			<edge id="ar94" v1="s48" v2="s34" />
+			<edge id="ar95" v1="s47" v2="s34" />
+			<edge id="ar96" v1="s37" v2="s47" />
+			<edge id="ar97" v1="s38" v2="s36" />
+			<edge id="ar98" v1="s44" v2="s26" />
+			<edge id="ar99" v1="s49" v2="s16" />
+			<edge id="ar100" v1="s47" v2="s38" />
+			<edge id="ar101" v1="s40" v2="s38" />
+			<edge id="ar102" v1="s2" v2="s61" />
+			<edge id="ar103" v1="s49" v2="s40" />
+			<edge id="ar104" v1="s41" v2="s40" />
+			<edge id="ar105" v1="s56" v2="s22" />
+			<edge id="ar106" v1="s53" v2="s6" />
+			<edge id="ar107" v1="s51" v2="s41" />
+			<edge id="ar108" v1="s46" v2="s13" />
+			<edge id="ar109" v1="s44" v2="s23" />
+			<edge id="ar110" v1="s51" v2="s44" />
+			<edge id="ar111" v1="s48" v2="s44" />
+			<edge id="ar112" v1="s31" v2="s59" />
+			<edge id="ar113" v1="s49" v2="s14" />
+			<edge id="ar114" v1="s48" v2="s46" />
+			<edge id="ar115" v1="s51" v2="s46" />
+			<edge id="ar116" v1="s47" v2="s46" />
+			<edge id="ar117" v1="s55" v2="s20" />
+			<edge id="ar118" v1="s49" v2="s47" />
+			<edge id="ar119" v1="s22" v2="s36" />
+			<edge id="ar120" v1="s51" v2="s49" />
+			<edge id="ar121" v1="s53" v2="s1" />
+			<edge id="ar122" v1="s54" v2="s1" />
+			<edge id="ar123" v1="s55" v2="s1" />
+			<edge id="ar124" v1="s56" v2="s3" />
+			<edge id="ar125" v1="s57" v2="s3" />
+			<edge id="ar126" v1="s58" v2="s3" />
+			<edge id="ar127" v1="s59" v2="s5" />
+			<edge id="ar128" v1="s60" v2="s5" />
+			<edge id="ar129" v1="s22" v2="s52" />
+			<edge id="ar130" v1="s26" v2="s29" />
+			<edge id="ar131" v1="s56" v2="s8" />
+			<edge id="ar132" v1="s52" v2="s8" />
+			<edge id="ar133" v1="s61" v2="s9" />
+			<edge id="ar134" v1="s55" v2="s9" />
+			<edge id="ar135" v1="s62" v2="s9" />
+			<edge id="ar136" v1="s43" v2="s29" />
+			<edge id="ar137" v1="s60" v2="s12" />
+			<edge id="ar138" v1="s50" v2="s12" />
+			<edge id="ar139" v1="s45" v2="s12" />
+			<edge id="ar140" v1="s61" v2="s19" />
+			<edge id="ar141" v1="s31" v2="s28" />
+			<edge id="ar142" v1="s20" v2="s42" />
+			<edge id="ar143" v1="s54" v2="s15" />
+			<edge id="ar144" v1="s43" v2="s15" />
+			<edge id="ar145" v1="s62" v2="s20" />
+			<edge id="ar146" v1="s29" v2="s23" />
+			<edge id="ar147" v1="s53" v2="s17" />
+			<edge id="ar148" v1="s42" v2="s18" />
+			<edge id="ar149" v1="s39" v2="s18" />
+			<edge id="ar150" v1="s37" v2="s21" />
+			<edge id="ar151" v1="s36" v2="s21" />
+			<edge id="ar152" v1="s35" v2="s24" />
+			<edge id="ar153" v1="s33" v2="s24" />
+			<edge id="ar154" v1="s29" v2="s45" />
+			<edge id="ar155" v1="s19" v2="s39" />
+			<edge id="ar156" v1="s50" v2="s29" />
+			<edge id="ar157" v1="s59" v2="s27" />
+			<edge id="ar158" v1="s28" v2="s27" />
+			<edge id="ar159" v1="s26" v2="s30" />
+			<edge id="ar160" v1="s42" v2="s30" />
+			<edge id="ar161" v1="s25" v2="s32" />
+			<edge id="ar162" v1="s23" v2="s32" />
+			<edge id="ar163" v1="s39" v2="s34" />
+			<edge id="ar164" v1="s37" v2="s34" />
+			<edge id="ar165" v1="s11" v2="s33" />
+			<edge id="ar166" v1="s31" v2="s60" />
+			<edge id="ar167" v1="s11" v2="s59" />
+			<edge id="ar168" v1="s16" v2="s38" />
+			<edge id="ar169" v1="s14" v2="s41" />
+			<edge id="ar170" v1="s25" v2="s41" />
+			<edge id="ar171" v1="s7" v2="s11" />
+			<edge id="ar172" v1="s6" v2="s60" />
+			<edge id="ar173" v1="s13" v2="s44" />
+			<edge id="ar174" v1="s33" v2="s40" />
+			<edge id="ar175" v1="s10" v2="s46" />
+			<edge id="ar176" v1="s10" v2="s49" />
+			<edge id="ar177" v1="s2" v2="s57" />
+			<edge id="ar178" v1="s53" v2="s2" />
+			<edge id="ar179" v1="s20" v2="s54" />
+			<edge id="ar180" v1="s7" v2="s6" />
+		</edges>
+		<wings>
+			<wing id="ai1" edge-list="ar174 ar153 ar72 " />
+			<wing id="ai2" edge-list="ar2 ar121 ar106 " />
+			<wing id="ai3" edge-list="ar7 ar102 ar25 " />
+			<wing id="ai4" edge-list="ar4 ar173 ar110 " />
+			<wing id="ai5" edge-list="ar17 ar16 ar171 " />
+			<wing id="ai6" edge-list="ar1 ar175 ar115 " />
+			<wing id="ai7" edge-list="ar22 ar92 ar47 " />
+			<wing id="ai8" edge-list="ar9 ar177 ar53 " />
+			<wing id="ai9" edge-list="ar27 ar25 ar140 " />
+			<wing id="ai10" edge-list="ar56 ar26 ar145 " />
+			<wing id="ai11" edge-list="ar13 ar124 ar105 " />
+			<wing id="ai12" edge-list="ar36 ar79 ar61 " />
+			<wing id="ai13" edge-list="ar11 ar107 ar169 " />
+			<wing id="ai14" edge-list="ar129 ar30 ar132 " />
+			<wing id="ai15" edge-list="ar37 ar165 ar75 " />
+			<wing id="ai16" edge-list="ar15 ar28 ar94 " />
+			<wing id="ai17" edge-list="ar45 ar136 ar81 " />
+			<wing id="ai18" edge-list="ar63 ar89 ar45 " />
+			<wing id="ai19" edge-list="ar46 ar64 ar87 " />
+			<wing id="ai20" edge-list="ar80 ar154 ar46 " />
+			<wing id="ai21" edge-list="ar19 ar176 ar118 " />
+			<wing id="ai22" edge-list="ar52 ar93 ar68 " />
+			<wing id="ai23" edge-list="ar53 ar67 ar39 " />
+			<wing id="ai24" edge-list="ar20 ar95 ar28 " />
+			<wing id="ai25" edge-list="ar112 ar21 ar127 " />
+			<wing id="ai26" edge-list="ar31 ar168 ar100 " />
+			<wing id="ai27" edge-list="ar11 ar113 ar120 " />
+			<wing id="ai28" edge-list="ar74 ar54 ar69 " />
+			<wing id="ai29" edge-list="ar141 ar78 ar158 " />
+			<wing id="ai30" edge-list="ar35 ar170 ar107 " />
+			<wing id="ai31" edge-list="ar73 ar58 ar104 " />
+			<wing id="ai32" edge-list="ar86 ar141 ar73 " />
+			<wing id="ai33" edge-list="ar76 ar75 ar174 " />
+			<wing id="ai34" edge-list="ar136 ar144 ar48 " />
+			<wing id="ai35" edge-list="ar12 ar108 ar114 " />
+			<wing id="ai36" edge-list="ar88 ar74 ar101 " />
+			<wing id="ai37" edge-list="ar82 ar146 ar109 " />
+			<wing id="ai38" edge-list="ar171 ar44 ar39 " />
+			<wing id="ai39" edge-list="ar41 ar162 ar90 " />
+			<wing id="ai40" edge-list="ar98 ar130 ar82 " />
+			<wing id="ai41" edge-list="ar69 ar119 ar97 " />
+			<wing id="ai42" edge-list="ar66 ar150 ar96 " />
+			<wing id="ai43" edge-list="ar114 ar91 ar15 " />
+			<wing id="ai44" edge-list="ar100 ar97 ar83 " />
+			<wing id="ai45" edge-list="ar60 ar148 ar71 " />
+			<wing id="ai46" edge-list="ar103 ar70 ar99 " />
+			<wing id="ai47" edge-list="ar99 ar31 ar118 " />
+			<wing id="ai48" edge-list="ar94 ar163 ar77 " />
+			<wing id="ai49" edge-list="ar167 ar37 ar157 " />
+			<wing id="ai50" edge-list="ar58 ar158 ar76 " />
+			<wing id="ai51" edge-list="ar113 ar55 ar103 " />
+			<wing id="ai52" edge-list="ar115 ar108 ar4 " />
+			<wing id="ai53" edge-list="ar85 ar159 ar50 " />
+			<wing id="ai54" edge-list="ar110 ar109 ar41 " />
+			<wing id="ai55" edge-list="ar90 ar161 ar35 " />
+			<wing id="ai56" edge-list="ar116 ar175 ar19 " />
+			<wing id="ai57" edge-list="ar59 ar86 ar170 " />
+			<wing id="ai58" edge-list="ar111 ar173 ar12 " />
+			<wing id="ai59" edge-list="ar64 ar139 ar42 " />
+			<wing id="ai60" edge-list="ar120 ar176 ar1 " />
+			<wing id="ai61" edge-list="ar177 ar8 ar125 " />
+			<wing id="ai62" edge-list="ar178 ar121 ar3 " />
+			<wing id="ai63" edge-list="ar180 ar16 ar18 " />
+			<wing id="ai64" edge-list="ar55 ar169 ar104 " />
+			<wing id="ai65" edge-list="ar70 ar101 ar168 " />
+			<wing id="ai66" edge-list="ar5 ar3 ar123 " />
+			<wing id="ai67" edge-list="ar102 ar10 ar133 " />
+			<wing id="ai68" edge-list="ar32 ar124 ar8 " />
+			<wing id="ai69" edge-list="ar67 ar125 ar14 " />
+			<wing id="ai70" edge-list="ar71 ar160 ar85 " />
+			<wing id="ai71" edge-list="ar92 ar23 ar138 " />
+			<wing id="ai72" edge-list="ar51 ar122 ar2 " />
+			<wing id="ai73" edge-list="ar166 ar42 ar137 " />
+			<wing id="ai74" edge-list="ar172 ar18 ar128 " />
+			<wing id="ai75" edge-list="ar112 ar157 ar78 " />
+			<wing id="ai76" edge-list="ar32 ar7 ar131 " />
+			<wing id="ai77" edge-list="ar83 ar151 ar66 " />
+			<wing id="ai78" edge-list="ar40 ar26 ar57 " />
+			<wing id="ai79" edge-list="ar117 ar123 ar6 " />
+			<wing id="ai80" edge-list="ar146 ar80 ar162 " />
+			<wing id="ai81" edge-list="ar88 ar72 ar152 " />
+			<wing id="ai82" edge-list="ar129 ar36 ar65 " />
+			<wing id="ai83" edge-list="ar140 ar133 ar33 " />
+			<wing id="ai84" edge-list="ar50 ar98 ar111 " />
+			<wing id="ai85" edge-list="ar178 ar9 ar147 " />
+			<wing id="ai86" edge-list="ar5 ar134 ar10 " />
+			<wing id="ai87" edge-list="ar165 ar38 ar153 " />
+			<wing id="ai88" edge-list="ar167 ar127 ar17 " />
+			<wing id="ai89" edge-list="ar130 ar159 ar81 " />
+			<wing id="ai90" edge-list="ar29 ar14 ar126 " />
+			<wing id="ai91" edge-list="ar180 ar24 ar44 " />
+			<wing id="ai92" edge-list="ar172 ar137 ar23 " />
+			<wing id="ai93" edge-list="ar156 ar138 ar43 " />
+			<wing id="ai94" edge-list="ar154 ar43 ar139 " />
+			<wing id="ai95" edge-list="ar96 ar164 ar95 " />
+			<wing id="ai96" edge-list="ar179 ar6 ar122 " />
+			<wing id="ai97" edge-list="ar166 ar128 ar21 " />
+			<wing id="ai98" edge-list="ar59 ar161 ar87 " />
+			<wing id="ai99" edge-list="ar156 ar48 ar47 " />
+			<wing id="ai100" edge-list="ar77 ar149 ar60 " />
+			<wing id="ai101" edge-list="ar106 ar147 ar24 " />
+			<wing id="ai102" edge-list="ar51 ar22 ar143 " />
+			<wing id="ai103" edge-list="ar105 ar131 ar30 " />
+			<wing id="ai104" edge-list="ar20 ar91 ar116 " />
+			<wing id="ai105" edge-list="ar145 ar135 ar34 " />
+			<wing id="ai106" edge-list="ar29 ar52 ar38 " />
+			<wing id="ai107" edge-list="ar84 ar150 ar61 " />
+			<wing id="ai108" edge-list="ar155 ar57 ar149 " />
+			<wing id="ai109" edge-list="ar79 ar132 ar27 " />
+			<wing id="ai110" edge-list="ar84 ar62 ar164 " />
+			<wing id="ai111" edge-list="ar89 ar49 ar144 " />
+			<wing id="ai112" edge-list="ar142 ar148 ar56 " />
+			<wing id="ai113" edge-list="ar54 ar152 ar68 " />
+			<wing id="ai114" edge-list="ar119 ar65 ar151 " />
+			<wing id="ai115" edge-list="ar93 ar126 ar13 " />
+			<wing id="ai116" edge-list="ar142 ar63 ar160 " />
+			<wing id="ai117" edge-list="ar40 ar33 ar135 " />
+			<wing id="ai118" edge-list="ar155 ar163 ar62 " />
+			<wing id="ai119" edge-list="ar117 ar34 ar134 " />
+			<wing id="ai120" edge-list="ar179 ar143 ar49 " />
+		</wings>
+	</solid>
+</saa>

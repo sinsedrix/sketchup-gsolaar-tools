@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Created with GSolaar (http://source-forge.net/projects/gsolaar/) -->
+<saa version="1.0" author="sinsedrix@source-forge.net">
+	<solid id="sol3" name="PentagrammicPrism">
+		<vertices>
+			<vertex id="s1" x="0.000000000000000000" y="0.000000000000000000" z="1.000000000000000000" />
+			<vertex id="s2" x="0.998742213751892427" y="0.000000000000000000" z="0.050139709512215802" />
+			<vertex id="s3" x="-0.903370818838414857" y="0.425919209711469460" z="0.050139709512215802" />
+			<vertex id="s4" x="0.635470949749211811" y="-0.770495088598795452" z="0.050139709512215802" />
+			<vertex id="s5" x="0.095371394913477875" y="0.425919209711469460" z="-0.899720580975568729" />
+			<vertex id="s6" x="0.018214315651229891" y="-0.770495088598795452" z="0.637185653597514667" />
+			<vertex id="s7" x="-0.267899869089203269" y="-0.344575878887325826" z="-0.899720580975568729" />
+			<vertex id="s8" x="0.605999567943703243" y="0.476192152918916867" z="0.637185653597514778" />
+			<vertex id="s9" x="-0.885156503187185084" y="-0.344575878887325826" z="-0.312674636890270141" />
+			<vertex id="s10" x="-0.297371250894711892" y="0.902111362630386382" z="-0.312674636890269697" />
+			<vertex id="s11" x="0.617256634097982371" y="0.000000000000000000" z="0.412954055914700802" />
+			<vertex id="s12" x="0.381485579653910556" y="0.000000000000000000" z="0.637185653597514667" />
+			<vertex id="s13" x="-0.521885239184504468" y="0.425919209711469460" z="-0.312674636890269420" />
+			<vertex id="s14" x="-0.286114184740432820" y="0.425919209711469460" z="-0.536906234573083174" />
+			<vertex id="s15" x="-0.510628173030225563" y="-0.050272943207447796" z="-0.536906234573083618" />
+			<vertex id="s16" x="-0.660642514897392452" y="0.131616274031591096" z="-0.312674636890269586" />
+			<vertex id="s17" x="0.392742645808189461" y="-0.476192152918917311" z="0.412954055914700746" />
+			<vertex id="s18" x="0.242728303941022600" y="-0.294302935679878419" z="0.637185653597514667" />
+			<vertex id="s19" x="0.624213883594932795" y="-0.294302935679878253" z="0.274371307195029668" />
+			<vertex id="s20" x="-0.279156935243482285" y="0.131616274031590957" z="-0.675488983292754641" />
+		</vertices>
+		<edges>
+			<edge id="ar1" v1="s1" v2="s12" />
+			<edge id="ar2" v1="s2" v2="s5" />
+			<edge id="ar3" v1="s3" v2="s1" />
+			<edge id="ar4" v1="s5" v2="s14" />
+			<edge id="ar5" v1="s3" v2="s16" />
+			<edge id="ar6" v1="s4" v2="s17" />
+			<edge id="ar7" v1="s7" v2="s4" />
+			<edge id="ar8" v1="s4" v2="s19" />
+			<edge id="ar9" v1="s6" v2="s17" />
+			<edge id="ar10" v1="s8" v2="s12" />
+			<edge id="ar11" v1="s6" v2="s9" />
+			<edge id="ar12" v1="s9" v2="s15" />
+			<edge id="ar13" v1="s9" v2="s16" />
+			<edge id="ar14" v1="s10" v2="s14" />
+			<edge id="ar15" v1="s10" v2="s8" />
+			<edge id="ar16" v1="s11" v2="s2" />
+			<edge id="ar17" v1="s18" v2="s16" />
+			<edge id="ar18" v1="s13" v2="s3" />
+			<edge id="ar19" v1="s12" v2="s13" />
+			<edge id="ar20" v1="s15" v2="s7" />
+			<edge id="ar21" v1="s19" v2="s20" />
+			<edge id="ar22" v1="s11" v2="s14" />
+			<edge id="ar23" v1="s18" v2="s1" />
+			<edge id="ar24" v1="s11" v2="s8" />
+			<edge id="ar25" v1="s13" v2="s10" />
+			<edge id="ar26" v1="s15" v2="s17" />
+			<edge id="ar27" v1="s19" v2="s2" />
+			<edge id="ar28" v1="s20" v2="s7" />
+			<edge id="ar29" v1="s18" v2="s6" />
+			<edge id="ar30" v1="s20" v2="s5" />
+		</edges>
+		<wings>
+			<wing id="ai1" edge-list="ar4 ar22 ar16 ar2 " />
+			<wing id="ai2" edge-list="ar7 ar6 ar26 ar20 " />
+			<wing id="ai3" edge-list="ar10 ar1 ar23 ar29 ar9 ar6 ar8 ar27 ar16 ar24 " />
+			<wing id="ai4" edge-list="ar12 ar26 ar9 ar11 " />
+			<wing id="ai5" edge-list="ar14 ar4 ar30 ar28 ar20 ar12 ar13 ar5 ar18 ar25 " />
+			<wing id="ai6" edge-list="ar15 ar24 ar22 ar14 " />
+			<wing id="ai7" edge-list="ar13 ar11 ar29 ar17 " />
+			<wing id="ai8" edge-list="ar21 ar30 ar2 ar27 " />
+			<wing id="ai9" edge-list="ar19 ar18 ar3 ar1 " />
+			<wing id="ai10" edge-list="ar19 ar10 ar15 ar25 " />
+			<wing id="ai11" edge-list="ar17 ar23 ar3 ar5 " />
+			<wing id="ai12" edge-list="ar21 ar8 ar7 ar28 " />
+		</wings>
+	</solid>
+</saa>
