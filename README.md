@@ -18,7 +18,7 @@ See the LICENSE and NOTICE files for more information.
 
 Copyright: Copyright (c) 2013 Cédric COULIOU
 
-License: CeCILL
+License: CeCILL C
 
 Licensed under the CeCILL License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
